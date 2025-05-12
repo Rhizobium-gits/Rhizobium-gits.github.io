@@ -1,3 +1,5 @@
+*.js linguist-detectable=true
+
 // プロフィール情報データ(書き換えたり複製してあげようか)
 const profileData = {
   about: {
