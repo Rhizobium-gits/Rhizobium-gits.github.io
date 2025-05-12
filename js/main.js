@@ -1,3 +1,5 @@
+*.js linguist-detectable=true
+
 // グローバル変数の設定
 //全てのスコープからアクセスできるようにする
 let scene, camera, renderer, controls;
