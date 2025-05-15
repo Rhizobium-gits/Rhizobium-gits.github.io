@@ -9,7 +9,7 @@ Softly swaying information. Simple and intuitive. A fluctuating network existing
 
 ## Demo
 
-Experience the interactive 3D profile directly at: https://tsubasato.github.io/interactive-profile
+Experience the interactive 3D profile directly at: [https://tsubasato.github.io/interactive-profile](https://rhizobium-gits.github.io/)
 
 ## Features
 
