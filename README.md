@@ -70,9 +70,3 @@ This profile showcases Tsubasa Sato's research on:
 ## License
 
 This project is available for educational purposes.
-
-## Contact
-
-For more information about Tsubasa Sato's research:
-- [Google Scholar](https://scholar.google.co.jp/citations?user=13x6x4sAAAAJ&hl=ja)
-- [Web of Science](https://www.webofscience.com/wos/author/record/LXW-1255-2024)
